@@ -66,7 +66,9 @@ const juan = {
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./about-me.png" width="100%" alt="Juan Alberto Izquierdo - Linux Developer"/>
+<img src="./about-me.gif"
+     width="100%"
+     alt="Juan Alberto - About Me"/>
 
 </td>
 </tr>
@@ -321,7 +323,9 @@ Personal learning and experimentation environment.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Juanizquierdo222&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+<img src="./Trofeos.png"
+     width="100%"
+     alt="Juan Alberto Izquierdo - GitHub Trophies"/>
 
 </div>
 
