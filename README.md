@@ -64,11 +64,9 @@ const juan = {
 };
 ```
 
-</td>
-
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+<img src="./about-me.png" width="100%" alt="Juan Alberto Izquierdo - Linux Developer"/>
 
 </td>
 </tr>
