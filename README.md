@@ -1,4 +1,4 @@
-![Uploading Ingeniería de sistemas en neón verde.png…]()
+
 <div align="center">
 
 # 👋 Hola, soy Juan Alberto Izquierdo
