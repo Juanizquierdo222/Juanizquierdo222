@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./Ingenier%C3%ADa%20de%20sistemas%20en%20ne%C3%B3n%20verde.png" width="100%" alt="Juan Alberto Izquierdo"/>
+</p>
 <div align="center">
 
 # 👋 Hola, soy Juan Alberto Izquierdo
